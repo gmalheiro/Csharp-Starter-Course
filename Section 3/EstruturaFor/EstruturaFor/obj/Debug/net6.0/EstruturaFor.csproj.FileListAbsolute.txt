@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\bin\Debug\net6.0\EstruturaFor.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\bin\Debug\net6.0\EstruturaFor.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\bin\Debug\net6.0\EstruturaFor.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\bin\Debug\net6.0\EstruturaFor.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\bin\Debug\net6.0\EstruturaFor.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\refint\EstruturaFor.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\EstruturaFor.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaFor\EstruturaFor\obj\Debug\net6.0\ref\EstruturaFor.dll

@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\bin\Debug\net6.0\Exercise 4.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\refint\Exercise 4.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 6\Exercise 4\Exercise 4\obj\Debug\net6.0\ref\Exercise 4.dll

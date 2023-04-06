@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9Q8ABk3Cg5f7jg23hxFPmsNAwPWFyhFy0deTMTu8rr3Uzcxyk0bmH0EN+GIkQVYhMyznK4EaQYSjjjYouwlLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g.silva.malheiro\\Documents\\Programming\\.NET\\Project\\Curso Udemy\\Section 3\\EstruturaWhile\\EstruturaWhile\\EstruturaWhile.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.33.1.34:8081/Einstein-Nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\refint\Enumerations.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 9\Enumerations\Enumerations\obj\Debug\net6.0\ref\Enumerations.dll

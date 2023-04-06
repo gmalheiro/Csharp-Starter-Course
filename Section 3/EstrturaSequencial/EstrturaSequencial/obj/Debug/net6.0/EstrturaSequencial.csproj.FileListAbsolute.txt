@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\bin\Debug\net6.0\EstrturaSequencial.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\bin\Debug\net6.0\EstrturaSequencial.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\bin\Debug\net6.0\EstrturaSequencial.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\bin\Debug\net6.0\EstrturaSequencial.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\bin\Debug\net6.0\EstrturaSequencial.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\refint\EstrturaSequencial.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\EstrturaSequencial.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstrturaSequencial\EstrturaSequencial\obj\Debug\net6.0\ref\EstrturaSequencial.dll

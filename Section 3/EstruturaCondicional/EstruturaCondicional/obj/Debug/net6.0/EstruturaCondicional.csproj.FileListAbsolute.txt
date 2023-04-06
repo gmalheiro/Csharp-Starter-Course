@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\refint\EstruturaCondicional.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\ref\EstruturaCondicional.dll

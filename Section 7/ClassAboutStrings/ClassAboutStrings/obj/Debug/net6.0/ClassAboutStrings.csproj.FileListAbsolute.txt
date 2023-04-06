@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\bin\Debug\net6.0\ClassAboutStrings.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\bin\Debug\net6.0\ClassAboutStrings.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\bin\Debug\net6.0\ClassAboutStrings.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\bin\Debug\net6.0\ClassAboutStrings.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\bin\Debug\net6.0\ClassAboutStrings.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\refint\ClassAboutStrings.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ClassAboutStrings.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutStrings\ClassAboutStrings\obj\Debug\net6.0\ref\ClassAboutStrings.dll
