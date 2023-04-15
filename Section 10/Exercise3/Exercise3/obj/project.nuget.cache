@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQYJkhdolALdGJ4mKRjHtd2pKaX55uUZmfncmp0jYDVTg7tgygYhRLf5rkyU+annR6vG0EwAMthmSQwTImtK8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g.silva.malheiro\\Documents\\Programming\\.NET\\Project\\Curso Udemy\\Section 10\\Exercise3\\Exercise3\\Exercise3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.33.1.34:8081/Einstein-Nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

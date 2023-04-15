@@ -1,0 +1,5 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.csproj.CoreCompileInputs.cache

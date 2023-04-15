@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Project\Curso Udemy\Section 7\ClassAboutDateTime\DateTimeClass\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
