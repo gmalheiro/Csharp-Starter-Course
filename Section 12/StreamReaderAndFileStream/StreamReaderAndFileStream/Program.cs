@@ -12,7 +12,8 @@
                 streamReader = File.OpenText(path);
                 while (!streamReader.EndOfStream)
                 {
-
+                    string? line = streamReader.ReadLine();
+                    Console.WriteLine(line);
                 }
             }
             catch(IOException e)

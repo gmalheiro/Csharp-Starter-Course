@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\bin\Debug\net6.0\WorkingWithUsingBlock.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\bin\Debug\net6.0\WorkingWithUsingBlock.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\bin\Debug\net6.0\WorkingWithUsingBlock.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\bin\Debug\net6.0\WorkingWithUsingBlock.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\bin\Debug\net6.0\WorkingWithUsingBlock.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\refint\WorkingWithUsingBlock.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\WorkingWithUsingBlock.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\WorkingWithUsingBlock\WorkingWithUsingBlock\obj\Debug\net6.0\ref\WorkingWithUsingBlock.dll
