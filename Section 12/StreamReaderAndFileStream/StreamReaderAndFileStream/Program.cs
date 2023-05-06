@@ -5,18 +5,24 @@
         static void Main(string[] args)
         {
             string? path = @"C:\Working-with-files\file1.txt";
-            FileStream? fileStream = null;
-            StreamReader? streamReader = null;
+            
+            StreamReader? streamReader = null;  
             try
             {
-                fileStream = new FileStream(path, FileMode.Open);
-                streamReader = new StreamReader(fileStream   );
-            }
-            catch(Exception e)
-            {
-                Console.WriteLine(e.Message);   
-            }
+                streamReader = File.OpenText(path);
+                while (!streamReader.EndOfStream)
+                {
 
+                }
+            }
+            catch(IOException e)
+            {
+                Console.WriteLine("An error occured at:" + e.Message);   
+            }
+            finally 
+            { 
+                if (streamReader != null) streamReader.Close();
+            }
         }
     }
 }
