@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\bin\Debug\net6.0\ClassAboutStreamWriter.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\bin\Debug\net6.0\ClassAboutStreamWriter.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\bin\Debug\net6.0\ClassAboutStreamWriter.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\bin\Debug\net6.0\ClassAboutStreamWriter.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\bin\Debug\net6.0\ClassAboutStreamWriter.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\refint\ClassAboutStreamWriter.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ClassAboutStreamWriter.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutStreamWriter\ClassAboutStreamWriter\obj\Debug\net6.0\ref\ClassAboutStreamWriter.dll

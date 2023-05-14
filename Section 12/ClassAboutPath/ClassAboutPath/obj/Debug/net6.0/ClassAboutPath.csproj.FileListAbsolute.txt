@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\bin\Debug\net6.0\ClassAboutPath.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\bin\Debug\net6.0\ClassAboutPath.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\bin\Debug\net6.0\ClassAboutPath.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\bin\Debug\net6.0\ClassAboutPath.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\bin\Debug\net6.0\ClassAboutPath.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\refint\ClassAboutPath.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ClassAboutPath.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAboutPath\ClassAboutPath\obj\Debug\net6.0\ref\ClassAboutPath.dll

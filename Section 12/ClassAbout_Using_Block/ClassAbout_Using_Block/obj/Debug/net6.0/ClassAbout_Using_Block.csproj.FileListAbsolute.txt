@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\bin\Debug\net6.0\ClassAbout_Using_Block.exe
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\bin\Debug\net6.0\ClassAbout_Using_Block.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\bin\Debug\net6.0\ClassAbout_Using_Block.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\bin\Debug\net6.0\ClassAbout_Using_Block.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\bin\Debug\net6.0\ClassAbout_Using_Block.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\refint\ClassAbout_Using_Block.dll
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ClassAbout_Using_Block.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\.NET\Projects\Curso Udemy\Section 12\ClassAbout_Using_Block\ClassAbout_Using_Block\obj\Debug\net6.0\ref\ClassAbout_Using_Block.dll
