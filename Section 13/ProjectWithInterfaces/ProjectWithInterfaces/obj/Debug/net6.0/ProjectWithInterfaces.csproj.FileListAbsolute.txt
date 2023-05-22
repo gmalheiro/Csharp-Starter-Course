@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\bin\Debug\net6.0\ProjectWithInterfaces.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\bin\Debug\net6.0\ProjectWithInterfaces.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\bin\Debug\net6.0\ProjectWithInterfaces.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\bin\Debug\net6.0\ProjectWithInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\bin\Debug\net6.0\ProjectWithInterfaces.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\refint\ProjectWithInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ProjectWithInterfaces.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProjectWithInterfaces\ProjectWithInterfaces\obj\Debug\net6.0\ref\ProjectWithInterfaces.dll

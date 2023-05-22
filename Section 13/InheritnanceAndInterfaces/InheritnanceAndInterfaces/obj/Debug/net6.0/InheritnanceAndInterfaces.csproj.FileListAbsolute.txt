@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\bin\Debug\net6.0\InheritnanceAndInterfaces.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\bin\Debug\net6.0\InheritnanceAndInterfaces.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\bin\Debug\net6.0\InheritnanceAndInterfaces.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\bin\Debug\net6.0\InheritnanceAndInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\bin\Debug\net6.0\InheritnanceAndInterfaces.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\refint\InheritnanceAndInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\InheritnanceAndInterfaces.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\InheritnanceAndInterfaces\InheritnanceAndInterfaces\obj\Debug\net6.0\ref\InheritnanceAndInterfaces.dll

@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\bin\Debug\net6.0\UsingInterfaceIComparable.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\bin\Debug\net6.0\UsingInterfaceIComparable.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\bin\Debug\net6.0\UsingInterfaceIComparable.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\bin\Debug\net6.0\UsingInterfaceIComparable.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\bin\Debug\net6.0\UsingInterfaceIComparable.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\refint\UsingInterfaceIComparable.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\UsingInterfaceIComparable.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\UsingInterfaceIComparable\UsingInterfaceIComparable\obj\Debug\net6.0\ref\UsingInterfaceIComparable.dll

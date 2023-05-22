@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\bin\Debug\net6.0\ProblemWithoutInterfaces.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\bin\Debug\net6.0\ProblemWithoutInterfaces.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\bin\Debug\net6.0\ProblemWithoutInterfaces.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\bin\Debug\net6.0\ProblemWithoutInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\bin\Debug\net6.0\ProblemWithoutInterfaces.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\refint\ProblemWithoutInterfaces.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ProblemWithoutInterfaces.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 13\ProblemWithoutInterfaces\ProblemWithoutInterfaces\obj\Debug\net6.0\ref\ProblemWithoutInterfaces.dll
