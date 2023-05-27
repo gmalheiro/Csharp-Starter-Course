@@ -17,6 +17,6 @@ namespace MultiCastDelegates.Services
         {
             double sum = x + y;
             Console.WriteLine(sum);
-        }
+        } 
     }
 }
