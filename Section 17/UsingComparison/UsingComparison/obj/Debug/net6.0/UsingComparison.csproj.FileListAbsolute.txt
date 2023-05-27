@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\bin\Debug\net6.0\UsingComparison.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\bin\Debug\net6.0\UsingComparison.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\bin\Debug\net6.0\UsingComparison.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\bin\Debug\net6.0\UsingComparison.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\bin\Debug\net6.0\UsingComparison.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\refint\UsingComparison.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\UsingComparison.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\UsingComparison\UsingComparison\obj\Debug\net6.0\ref\UsingComparison.dll

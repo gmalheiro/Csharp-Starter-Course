@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\net6.0\DictionaryESortedDictionary.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\net6.0\DictionaryESortedDictionary.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\net6.0\DictionaryESortedDictionary.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\net6.0\DictionaryESortedDictionary.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\net6.0\DictionaryESortedDictionary.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\refint\DictionaryESortedDictionary.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\DictionaryESortedDictionary.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\net6.0\ref\DictionaryESortedDictionary.dll

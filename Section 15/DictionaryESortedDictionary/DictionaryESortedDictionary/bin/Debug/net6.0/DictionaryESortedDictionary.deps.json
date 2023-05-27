@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DictionaryESortedDictionary/1.0.0": {
+        "runtime": {
+          "DictionaryESortedDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryESortedDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

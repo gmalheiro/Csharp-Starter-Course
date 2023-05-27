@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\refint\GenericsRestriction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\ref\GenericsRestriction.dll

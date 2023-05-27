@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\refint\DelegatesIntroduction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\ref\DelegatesIntroduction.dll

@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net6.0\GetHashCodeAndEquals.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net6.0\GetHashCodeAndEquals.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net6.0\GetHashCodeAndEquals.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net6.0\GetHashCodeAndEquals.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net6.0\GetHashCodeAndEquals.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\refint\GetHashCodeAndEquals.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\GetHashCodeAndEquals.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net6.0\ref\GetHashCodeAndEquals.dll

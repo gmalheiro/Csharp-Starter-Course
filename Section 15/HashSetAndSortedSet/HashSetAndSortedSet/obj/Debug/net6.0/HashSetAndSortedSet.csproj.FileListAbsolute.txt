@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net6.0\HashSetAndSortedSet.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net6.0\HashSetAndSortedSet.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net6.0\HashSetAndSortedSet.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net6.0\HashSetAndSortedSet.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net6.0\HashSetAndSortedSet.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\refint\HashSetAndSortedSet.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\HashSetAndSortedSet.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net6.0\ref\HashSetAndSortedSet.dll
