@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\bin\Debug\net6.0\ClassAboutFunc.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\bin\Debug\net6.0\ClassAboutFunc.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\bin\Debug\net6.0\ClassAboutFunc.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\bin\Debug\net6.0\ClassAboutFunc.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\bin\Debug\net6.0\ClassAboutFunc.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\refint\ClassAboutFunc.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ClassAboutFunc.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutFunc\ClassAboutFunc\obj\Debug\net6.0\ref\ClassAboutFunc.dll

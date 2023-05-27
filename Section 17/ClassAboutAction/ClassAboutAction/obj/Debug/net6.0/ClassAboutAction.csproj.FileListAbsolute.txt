@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\bin\Debug\net6.0\ClassAboutAction.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\bin\Debug\net6.0\ClassAboutAction.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\bin\Debug\net6.0\ClassAboutAction.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\bin\Debug\net6.0\ClassAboutAction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\bin\Debug\net6.0\ClassAboutAction.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\refint\ClassAboutAction.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ClassAboutAction.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutAction\ClassAboutAction\obj\Debug\net6.0\ref\ClassAboutAction.dll

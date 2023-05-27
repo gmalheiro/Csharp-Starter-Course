@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\bin\Debug\net6.0\ClassAboutPredicate.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\bin\Debug\net6.0\ClassAboutPredicate.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\bin\Debug\net6.0\ClassAboutPredicate.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\bin\Debug\net6.0\ClassAboutPredicate.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\bin\Debug\net6.0\ClassAboutPredicate.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\refint\ClassAboutPredicate.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ClassAboutPredicate.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\ClassAboutPredicate\ClassAboutPredicate\obj\Debug\net6.0\ref\ClassAboutPredicate.dll
