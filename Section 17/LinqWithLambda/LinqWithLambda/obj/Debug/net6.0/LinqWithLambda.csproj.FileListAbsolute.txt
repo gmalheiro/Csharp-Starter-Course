@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\bin\Debug\net6.0\LinqWithLambda.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\bin\Debug\net6.0\LinqWithLambda.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\bin\Debug\net6.0\LinqWithLambda.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\bin\Debug\net6.0\LinqWithLambda.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\bin\Debug\net6.0\LinqWithLambda.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\refint\LinqWithLambda.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\LinqWithLambda.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqWithLambda\LinqWithLambda\obj\Debug\net6.0\ref\LinqWithLambda.dll

@@ -1,0 +1,15 @@
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\bin\Debug\net6.0\LinqLikeSQL.exe
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\bin\Debug\net6.0\LinqLikeSQL.deps.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\bin\Debug\net6.0\LinqLikeSQL.runtimeconfig.json
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\bin\Debug\net6.0\LinqLikeSQL.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\bin\Debug\net6.0\LinqLikeSQL.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\refint\LinqLikeSQL.dll
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.pdb
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\LinqLikeSQL.genruntimeconfig.cache
+C:\Users\g.silva.malheiro\Documents\Programming\C#\Courses\Curso Udemy\Section 17\LinqLikeSQL\LinqLikeSQL\obj\Debug\net6.0\ref\LinqLikeSQL.dll
