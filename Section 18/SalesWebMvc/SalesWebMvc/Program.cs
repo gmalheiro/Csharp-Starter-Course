@@ -1,9 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using Pomelo.EntityFrameworkCore.MySql.Storage.Internal;
 using SalesWebMvc.Data;
-using System;
-using System.Configuration;
 
 namespace SalesWebMvc
 {
@@ -15,18 +11,26 @@ namespace SalesWebMvc
 
             string mySqlConnection = builder.Configuration.GetConnectionString("SalesWebMvcContext");
 
-            //builder.Services.AddDbContext<SalesWebMvcContext>(options =>
-            //options.UseMySql(mySqlConnection, builder =>
-            //    builder.MigrationsAssembly("SalesWebMvc")));
-
             builder.Services.AddDbContext<SalesWebMvcContext>(options =>
                            options.UseMySql(mySqlConnection,
                            ServerVersion.AutoDetect(mySqlConnection)));
+
+            builder.Services.AddScoped<SeedingService>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+
+            // Retrieve an instance of SeedingService from the service provider.
+            using (var scope = app.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                var seedingService = services.GetRequiredService<SeedingService>();
+
+                // Seed the database.
+                seedingService.Seed();
+            }
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
