@@ -1,4 +1,6 @@
-﻿namespace SalesWebMvc.Models
+﻿using System.Xml.Linq;
+
+namespace SalesWebMvc.Models
 {
     public class Seller
     {
@@ -25,6 +27,12 @@
             BaseSalary = baseSalary;
             Department = department;
         }
+
+        public Seller(int id, string name, string email, DateTime birthDate, double baseSalary, Department department, int departmentId): this(id, name, email, birthDate, baseSalary, department)
+        {
+            DepartmentId = departmentId;
+        }
+
 
         public void AddSales(SalesRecord salesRecord)
         {
