@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ajccRO6m9apEVvV4wfbmugW5x4xKoHWy2GHOKI44kRKbBLsaNUbom43EDC5Gq30jTOTxfNKjQnmAu/cwMMVKsw==",
+  "dgSpecHash": "za9bjm+8GRcQWSo4b2tHy8Ky0vPCH6U7xBtS2lzBlfWVFYGLPQwcnuShfgCViyLgyfTVO1aPWfuiTD2mIk0OeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\g.silva.malheiro\\Documents\\Programming\\C#\\Courses\\Curso Udemy\\Section 18\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\Users\\g.silva.malheiro\\Documents\\Programming\\C#\\Courses\\Curso Udemy\\Csharp-Starter-Course\\Section 18\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

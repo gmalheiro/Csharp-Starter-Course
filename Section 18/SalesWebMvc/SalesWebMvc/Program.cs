@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Data;
 using SalesWebMvc.Services;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 namespace SalesWebMvc
 {
@@ -9,7 +11,6 @@ namespace SalesWebMvc
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
             string mySqlConnection = builder.Configuration.GetConnectionString("SalesWebMvcContext");
 
             builder.Services.AddDbContext<SalesWebMvcContext>(options =>
@@ -24,6 +25,17 @@ namespace SalesWebMvc
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+            
+            var enUs = new CultureInfo("en-US");
+            
+            var localizationOptions = new RequestLocalizationOptions
+            {
+                DefaultRequestCulture = new RequestCulture(enUs),
+                SupportedCultures = new[] { enUs },
+                SupportedUICultures = new[] { enUs }
+            };
+
+            app.UseRequestLocalization(localizationOptions); 
 
             // Retrieve an instance of SeedingService from the service provider.
             using (var scope = app.Services.CreateScope())
